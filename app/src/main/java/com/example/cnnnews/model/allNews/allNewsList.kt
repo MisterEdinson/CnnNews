@@ -1,4 +1,4 @@
 package com.example.cnnnews.model.allNews
 
-class allNewsList {
+class allNewsList:ArrayList<allNewsItem>() {
 }
